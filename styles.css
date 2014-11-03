@@ -1,14 +1,14 @@
 * { padding: 0; margin: 0; }
 p { color: white; font-family: Helvetica; font-size: 16px; line-height: 24px; margin-bottom: 22px; }
 h1 { color: white; font-family: Helvetica; font-size: 34px; line-height: 32px; margin-bottom:20px; }
-a { color: normal; font-weight: bold; text-decoration: none; }
+a { color: white; font-weight: bold; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 #content {background-color: rgba(53,53,53,0.8);; width: 450px; padding: 20px 20px 20px 20px; margin: 50px auto 0 50px !important; }
 img {border: none;}
 p.small { color: #547D91; font-family: Helvetica; font-size: 12px; line-height: 24px; margin-bottom: 22px; }
 
-.profile{color: white;  text-decoration: ;}
+.profile{color: white; font-weight:normal;}
 
 dl {padding: 0.5em; }
 
