@@ -11,11 +11,4 @@ p.small { color: #547D91; font-family: Helvetica; font-size: 12px; line-height: 
 
 .profile{color: white; font-weight:normal;}
 
-dl {padding: 0.5em; }
-
-dt { float: left; clear: left; width: 78px; text-align: right; 
-     font-style:italic;} 
-
-dt:after { content: ":"; }
-
-dd { margin: 0 0 0 88px; padding: 0 0 0.5em 0; }
+li { margin: 0.05em; text-align: float-left; color: white; font-family: Helvetica; font-size: 16px; line-height: 24px;}
