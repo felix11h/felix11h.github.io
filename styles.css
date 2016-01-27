@@ -10,5 +10,6 @@ img {border: none;}
 p.small { color: #547D91; font-family: Helvetica; font-size: 12px; line-height: 24px; margin-bottom: 22px; }
 
 .profile{color: white; font-weight:normal;}
+.profile:hover {text-decoration: none; color: #A1D2E0;}
 
 li { margin: 0.05em; text-align: float-left; color: white; font-family: Helvetica; font-size: 16px; line-height: 24px;}
